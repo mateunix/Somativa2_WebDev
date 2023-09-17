@@ -37,10 +37,11 @@ class Principal extends Component {
         return(
             <div>
                 <h1>Tela Principal</h1>
+                <h2>
                 Nome: {this.state.nome}<br/>
                 Sobrenome: {this.state.sobrenome}<br/>
                 Data de Nascimento: {this.state.nasc}<br/>
-                
+                </h2>
             </div>
         )
     }

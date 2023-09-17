@@ -39,6 +39,8 @@
   },
   "devDependencies": {
     "eslint": "^8.49.0",
-    "eslint-plugin-react": "^7.33.2"
+    "eslint-plugin-react": "^7.33.2",
+    "source-map-loader": "^4.0.1",
+    "webpack": "^5.88.2"
   }
 }
